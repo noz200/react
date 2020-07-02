@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.6d30f093.chunk.css",
+    "main.js": "/react/static/js/main.162dbd4e.chunk.js",
+    "main.js.map": "/react/static/js/main.162dbd4e.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.da8bee19.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.da8bee19.js.map",
+    "static/js/2.c2da35c7.chunk.js": "/react/static/js/2.c2da35c7.chunk.js",
+    "static/js/2.c2da35c7.chunk.js.map": "/react/static/js/2.c2da35c7.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.28b977dd5e70efa15838ff565d0eebae.js": "/react/precache-manifest.28b977dd5e70efa15838ff565d0eebae.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/main.6d30f093.chunk.css.map": "/react/static/css/main.6d30f093.chunk.css.map",
+    "static/js/2.c2da35c7.chunk.js.LICENSE.txt": "/react/static/js/2.c2da35c7.chunk.js.LICENSE.txt",
+    "static/media/figure_hakusyu.png": "/react/static/media/figure_hakusyu.e4fb7c16.png",
+    "static/media/gal.png": "/react/static/media/gal.f2279fcb.png",
+    "static/media/hair_biyou_kirei_ojiisan.png": "/react/static/media/hair_biyou_kirei_ojiisan.ab738987.png",
+    "static/media/mizu_fuku_boy.png": "/react/static/media/mizu_fuku_boy.6809fe13.png",
+    "static/media/pose_anshin_obasan.png": "/react/static/media/pose_anshin_obasan.1cf8b818.png",
+    "static/media/smartphone_jidori_selfy_schoolgirl.png": "/react/static/media/smartphone_jidori_selfy_schoolgirl.2b0b1c09.png",
+    "static/media/App.css": "/react/static/media/suizokukan_jinbeizame.8076d00c.png",
+    "static/media/yaruki_moetsuki_businessman.png": "/react/static/media/yaruki_moetsuki_businessman.3e49cdc5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da8bee19.js",
+    "static/js/2.c2da35c7.chunk.js",
+    "static/css/main.6d30f093.chunk.css",
+    "static/js/main.162dbd4e.chunk.js"
+  ]
+}
